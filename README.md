@@ -1,4 +1,4 @@
 ## CREI-RDC
 
 ### Description
-The official website of CREI-RDC
+Welcome to the official website of Congo Restoration Earth Initiative (CREI RDC).
